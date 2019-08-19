@@ -121,12 +121,18 @@ body {
 
 
 
+.counter{
+  display: flex;
+  justify-content: left;
+}
+
 fieldset{
     border: #f2f2f2;
 }
 
 #contador{
     display: inline-block;
-    
-
+    height: 42px;
+    position: center;
+    text-align: center;  
 }
