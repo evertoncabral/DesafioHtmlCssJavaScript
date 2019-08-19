@@ -83,7 +83,7 @@ body {
   fill: #2f3676;
 }
 
-.counter input {
+.counter span {
   background: #dde3e9;
   border: 1px solid #2f3676;
   border-radius: 7px;
@@ -135,4 +135,22 @@ fieldset{
     height: 42px;
     position: center;
     text-align: center;  
+}
+
+#menos {
+  
+  border-style: none;
+  border-radius: 8px;
+  width : 42px;
+  height: 42px;
+  text-emphasis-color:white;
+}
+
+#mais {
+  
+  border-style: none;
+  border-radius: 8px;
+  width : 42px;
+  height: 42px;
+  text-emphasis-color:white;
 }
