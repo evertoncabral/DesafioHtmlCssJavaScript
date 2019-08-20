@@ -137,8 +137,7 @@ fieldset{
     text-align: center;  
 }
 
-#menos {
-  
+#menos { 
   border-style: none;
   border-radius: 8px;
   width : 42px;
@@ -146,8 +145,7 @@ fieldset{
   text-emphasis-color:white;
 }
 
-#mais {
-  
+#mais {  
   border-style: none;
   border-radius: 8px;
   width : 42px;
